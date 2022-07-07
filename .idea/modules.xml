@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/StudyCafeApp-Backend-main.iml" filepath="$PROJECT_DIR$/.idea/StudyCafeApp-Backend-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudyCafeApp-Backend-main/studyCafeProject.iml" filepath="$PROJECT_DIR$/StudyCafeApp-Backend-main/studyCafeProject.iml" />
+    </modules>
+  </component>
+</project>
